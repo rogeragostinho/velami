@@ -388,5 +388,5 @@ document.addEventListener('DOMContentLoaded', function () {
   iniciarValidacaoFormulario();
   iniciarCarrossel();
   iniciarPartilhaRedes();
-  // iniciarAnalytics(); // Descomentar quando tiver ID real do GA
+  iniciarAnalytics(); // Descomentar quando tiver ID real do GA
 });
