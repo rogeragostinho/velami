@@ -335,7 +335,7 @@ function iniciarCarrossel() {
 function iniciarAnalytics() {
   // Código de rastreamento Google Analytics (GA4)
   // Substituir 'G-XXXXXXXXXX' pelo ID real quando disponível
-  var GA_ID = 'G-XXXXXXXXXX';
+  var GA_ID = 'G-JPQL8826CS';
 
   var script1 = document.createElement('script');
   script1.async = true;
